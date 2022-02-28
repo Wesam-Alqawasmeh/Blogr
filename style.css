@@ -93,15 +93,7 @@ button {
   position: absolute;
 }
 
-/* .menu-item:hover .menu-item-drop {
-  background-color: #fff;
-  border-radius: 10px;
-  color: #000;
-  display: block;
-  padding: 20px;
-} */
-
-.menu-item:current .menu-item-drop {
+.menu-item:hover .menu-item-drop {
   background-color: #fff;
   border-radius: 10px;
   color: #000;
